@@ -1,4 +1,4 @@
-# PINKLAB_JBNU
+# PINKLAB_JBNU_자율주행 SW 교육 및 경진대회
 <img width="813" alt="전북대 자율주행 경진대회" src="https://github.com/CrowWhale/PINKLAB_JBNU/assets/140477551/e78b7b7b-f61e-4f3c-8138-2e4a5664d622">
 
 
