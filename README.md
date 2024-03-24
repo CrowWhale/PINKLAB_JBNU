@@ -1,1 +1,1 @@
-# pinklab_jbnu_robot
+# PINKLAB_JBNU
