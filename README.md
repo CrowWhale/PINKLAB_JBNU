@@ -3,7 +3,7 @@
 
 # 라이브러리 및 버전?
 ![ros2_gumble](https://img.shields.io/ros/v/humble/vision_msgs)
-![ros2](https://img.shields.io/badge/ros2-61DAFB?style=flat&logo=ros2&logoColor=black)
+![ros2](https://img.shields.io/badge/ros2-61DAFB?style=flat&logo=ros&logoColor=black)
 ![opencv](https://img.shields.io/badge/opencv-61DAFB?style=flat&logo=opencv&logoColor=white)
 
 ROS2, opencv, yolo 말고 또 뭐썼지..?
