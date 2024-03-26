@@ -3,7 +3,7 @@
 
 # 라이브러리 및 버전?
 ![ros2_gumble](https://img.shields.io/ros/v/humble/vision_msgs)
-![test](https://img.shields.io/badge/opencv-#5C3EE8)
+![test](https://img.shields.io/badge/opencv-#5C3EE8?)
 
 ROS2, opencv, yolo 말고 또 뭐썼지..?
 버전은 ubuntu 22.04 , ros2 humble 에서 진행했고 opencv 등은 딱히 버전 정하진 않았지
