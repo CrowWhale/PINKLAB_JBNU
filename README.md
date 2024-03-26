@@ -2,7 +2,7 @@
 <img width="813" alt="전북대 자율주행 경진대회" src="https://github.com/CrowWhale/PINKLAB_JBNU/assets/140477551/e78b7b7b-f61e-4f3c-8138-2e4a5664d622">
 
 # 라이브러리 및 버전?
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu|22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ros2|humble-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
