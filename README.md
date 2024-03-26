@@ -12,8 +12,11 @@ ROS2, opencv, yolo 말고 또 뭐썼지..?
 간단시리하게 하기
 
 # 몇몇 사진 및 영상 올리기
-이거로 끝
+<대회 맵 사진>
 ![대회 맵 사진](https://github.com/CrowWhale/PINKLAB_JBNU/assets/140477551/62836702-fd4b-4e8d-a182-fdcf8440a9b6)
+
+<minibot 참고 사진>
 ![minibot 참고 사진](https://github.com/CrowWhale/PINKLAB_JBNU/assets/140477551/fa043021-c53e-43e5-ae02-eaeb9406b017)
+
 [대회 편집 영상](https://github.com/CrowWhale/PINKLAB_JBNU/assets/140477551/7e11caa9-ecbb-4c7e-ba2d-58e0b0a428e6)
 
