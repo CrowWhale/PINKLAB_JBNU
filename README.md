@@ -1,7 +1,7 @@
 # PINKLAB_JBNU_자율주행 SW 교육 및 경진대회
 <img width="813" alt="전북대 자율주행 경진대회" src="https://github.com/CrowWhale/PINKLAB_JBNU/assets/140477551/e78b7b7b-f61e-4f3c-8138-2e4a5664d622">
 
-# 라이브러리 및 버전?
+# 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu|22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ros2|humble-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
@@ -10,8 +10,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-ROS2, opencv, yolo 말고 또 뭐썼지..?
-버전은 ubuntu 22.04 , ros2 humble 에서 진행했고 opencv 등은 딱히 버전 정하진 않았지
 
 # Introduction
 전북대 교육(간단설명)
