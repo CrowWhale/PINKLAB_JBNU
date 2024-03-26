@@ -2,9 +2,13 @@
 <img width="813" alt="전북대 자율주행 경진대회" src="https://github.com/CrowWhale/PINKLAB_JBNU/assets/140477551/e78b7b7b-f61e-4f3c-8138-2e4a5664d622">
 
 # 라이브러리 및 버전?
-![ros2_gumble](https://img.shields.io/ros/v/humble/vision_msgs)
-![ros2](https://img.shields.io/badge/ros2-005AF0?style=flat&logo=ros&logoColor=black)
-![opencv](https://img.shields.io/badge/opencv-61DAFB?style=flat&logo=opencv&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![ROS2](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ROS2, opencv, yolo 말고 또 뭐썼지..?
 버전은 ubuntu 22.04 , ros2 humble 에서 진행했고 opencv 등은 딱히 버전 정하진 않았지
