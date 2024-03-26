@@ -15,5 +15,5 @@ ROS2, opencv, yolo 말고 또 뭐썼지..?
 이거로 끝
 ![1000015632](https://github.com/CrowWhale/PINKLAB_JBNU/assets/140477551/62836702-fd4b-4e8d-a182-fdcf8440a9b6)
 ![20240208_171901](https://github.com/CrowWhale/PINKLAB_JBNU/assets/140477551/fa043021-c53e-43e5-ae02-eaeb9406b017)
-https://github.com/CrowWhale/PINKLAB_JBNU/assets/140477551/7e11caa9-ecbb-4c7e-ba2d-58e0b0a428e6
+[대회 편집 영상](https://github.com/CrowWhale/PINKLAB_JBNU/assets/140477551/7e11caa9-ecbb-4c7e-ba2d-58e0b0a428e6)
 
