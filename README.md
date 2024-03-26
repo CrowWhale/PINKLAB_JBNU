@@ -19,7 +19,7 @@
 - 사용된 로봇은 PINKLAB의 minibot 으로, 하단 링크와 교육 자료를 참고하여 실습해볼 수 있습니다.  
 [minibot github link](https://github.com/PinkWink/pinklab_minibot_robot.git)
 
-<img width="40%" height="60%" src="https://github.com/CrowWhale/PINKLAB_JBNU/assets/140477551/9a9fe325-0772-4a5e-866c-98ea7d3673bf">
+<img width="40%" height="90%" src="https://github.com/CrowWhale/PINKLAB_JBNU/assets/140477551/9a9fe325-0772-4a5e-866c-98ea7d3673bf">
 <img width="40%" height="50%" src="https://github.com/CrowWhale/PINKLAB_JBNU/assets/140477551/2b699533-4264-4fa4-bf3f-da5c9ea413b1">
 
 
