@@ -2,6 +2,7 @@
 <img width="813" alt="전북대 자율주행 경진대회" src="https://github.com/CrowWhale/PINKLAB_JBNU/assets/140477551/e78b7b7b-f61e-4f3c-8138-2e4a5664d622">
 
 # 
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu|22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ros2|humble-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
@@ -9,7 +10,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
+# 
 
 # Introduction
 전북대 교육(간단설명)
