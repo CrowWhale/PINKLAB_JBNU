@@ -14,13 +14,8 @@
 
 # Introduction and Description
 - 전북대학교에서 주최한 자율주행 SW 교육 및 경진대회에 PINKLAB 소속으로 참여하여 Reference guide code 개발 및 교육 자료를 제작하였습니다.
-- 교육 기간 동안 참여 학생들에게 개발 환경 구축과 guide code 사용법에 대해 교육하고, 실습 기간 동안 함께하며 Q&A를 진행하였습니다.
-- 대회 1일차에 PINKLAB 선임연구원 직책으로 PPT 발표 심사위원 역을 맡았으며, 2일차에 심판 직책으로 활동하였습니다.
 - 사용된 로봇은 PINKLAB의 minibot으로, 교육 자료 및 guide code와 하단 링크를 참고하여 실습해볼 수 있습니다.  
 [minibot github link](https://github.com/PinkWink/pinklab_minibot_robot.git)  
-
-<img width="40%" height="100%" src="https://github.com/CrowWhale/PINKLAB_JBNU/assets/140477551/9a9fe325-0772-4a5e-866c-98ea7d3673bf">
-<img width="40%" height="40%" src="https://github.com/CrowWhale/PINKLAB_JBNU/assets/140477551/2b699533-4264-4fa4-bf3f-da5c9ea413b1">
 
 
 # Pictures and video
